@@ -6,5 +6,5 @@ react (expo) のインストール
 cd codeSpaceTest
 
 ## 問題点
-Expo Goでスキャンしてもプレビューできない
+Expo Goでスキャンしてもプレビューできない<br/>
 ->ポートがprivateで起動しているため？
